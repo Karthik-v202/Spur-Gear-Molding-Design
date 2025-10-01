@@ -32,7 +32,6 @@ The final assembly showing the spur gear component integrated into the two-part 
 | Mold Drag (Bottom)| 2D Technical Drawing | ![Mold Drag](https://karthik-v202.github.io/Spur-Gear-Molding-Design/Screenshot%202025-10-01%20111104.png) |  
 
 ---
----
 
 ## 🛠️ Software  
 
