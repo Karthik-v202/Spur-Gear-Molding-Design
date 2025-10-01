@@ -21,15 +21,15 @@ This project was completed as part of an **Autodesk CAD course** and demonstrate
 ### 1. Mold Assembly  
 The final assembly showing the spur gear component integrated into the two-part mold block (Cope and Drag).  
 
-![Mold Assembly Screenshot](Screenshot%2025-10-01%110658.png)  
+![Mold Assembly Screenshot](https://karthik-v202.github.io/Spur-Gear-Molding-Design/Screenshot%202025-10-01%20110658.png)  
 
 ### 2. Manufacturing Drawings  
 
 | Component | View | Preview |  
 |-----------|------|----------|  
-| Spur Gear Drawing | 2D Technical Drawing | ![Gear Drawing](Screenshot%202025-10-01%20111113.png) |  
-| Mold Cope (Top)   | 2D Technical Drawing | ![Mold Cope](Screenshot%202025-10-01%20111051.png) |  
-| Mold Drag (Bottom)| 2D Technical Drawing | ![Mold Drag](Screenshot%202025-10-01%20111104.png) |  
+| Spur Gear Drawing | 2D Technical Drawing | ![Gear Drawing](https://karthik-v202.github.io/Spur-Gear-Molding-Design/Screenshot%202025-10-01%20111113.png) |  
+| Mold Cope (Top)   | 2D Technical Drawing | ![Mold Cope](https://karthik-v202.github.io/Spur-Gear-Molding-Design/Screenshot%202025-10-01%20111051.png) |  
+| Mold Drag (Bottom)| 2D Technical Drawing | ![Mold Drag](https://karthik-v202.github.io/Spur-Gear-Molding-Design/Screenshot%202025-10-01%20111104.png) |  
 
 ---
 
@@ -52,5 +52,5 @@ The final assembly showing the spur gear component integrated into the two-part 
 
 ## 🎓 About the Designer  
 
-Designed by **[Your Name]**, Mechanical Engineering Student at **[Your University]**.  
+Designed by **Karthik V S**, Mechanical Engineering Student at **Governement Engineering College**.  
 Looking for opportunities in **product design, CAD/CAM, and manufacturing engineering**.  
