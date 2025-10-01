@@ -32,16 +32,6 @@ The final assembly showing the spur gear component integrated into the two-part 
 | Mold Drag (Bottom)| 2D Technical Drawing | ![Mold Drag](https://karthik-v202.github.io/Spur-Gear-Molding-Design/Screenshot%202025-10-01%20111104.png) |  
 
 ---
-
-## 📂 Repository Contents  
-
-| Directory | Content Description |  
-|-----------|----------------------|  
-| `01_CAD_Source_Files/` | Native Fusion 360 files (`.f3d`) for the Gear and Mold components. |  
-| `02_Exported_3D_Models/` | Universal 3D files (`.STEP`, `.STL`) for easy import into other CAD/CAM software. |  
-| `03_Technical_Drawings/` | All 2D manufacturing drawings saved as high-resolution PDF files. |  
-| `04_Renders_and_Images/` | All project screenshots and high-quality renders used in this README and portfolio. |  
-
 ---
 
 ## 🛠️ Software  
